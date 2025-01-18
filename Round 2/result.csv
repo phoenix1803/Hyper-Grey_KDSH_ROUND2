@@ -1,0 +1,526 @@
+Paper Id,Publishable,Conference,Rationale,Summary
+P001.pdf,0,NA,NA,NA
+P002.pdf,0,NA,NA,NA
+P003.pdf,1,EMNLP,General relevance to the topic,"Explainable Reinforcement Learning for Financial
+Market Simulation: Unveiling the Mysteries of
+Adaptive Trading Agents in a Simulated Economy
+Abstract
+Explainable reinforcement learning has emerged as a crucial tool for financial
+market simulation, enabling stakeholders to understand complex decision-making
+processes and make informed investment choices"
+P004.pdf,1,NeurIPS,General relevance to the topic,"Graph Neural Networks Without Training: Harnessing the Power of
+Labels as Input Features
+Abstract
+This study introduces a novel concept of training-free graph neural networks (TFGNNs) for transductive node
+classification, which can function immediately without any training and can optionally be enhanced through
+subsequent training"
+P005.pdf,1,CVPR,"Contains key terms for CVPR: image, segmentation","Collaborative Clothing Segmentation and
+Identification Through Image Analysis
+Abstract
+This research introduces a comprehensive clothing co-parsing system designed
+to analyze a collection of clothing images, which are unsegmented but include
+descriptive tags"
+P006.pdf,0,NA,NA,NA
+P007.pdf,1,EMNLP,General relevance to the topic,"Joint Syntacto-Discourse Parsing and the
+Syntacto-Discourse Treebank
+Abstract
+Discourse parsing has long been treated as a stand-alone problem independent from
+constituency or dependency parsing"
+P008.pdf,1,NeurIPS,General relevance to the topic,"Optimized Transfer Learning with Equivariant
+Pretrained Models
+Abstract
+This research investigates the mechanisms behind Chain-of-Thought (CoT) prompt-
+ing, a method that enhances language models’ performance on complex reasoning
+tasks by decomposing them into simpler steps"
+P009.pdf,1,TMLR,General relevance to the topic,"Flexible Online Aggregations Using Basis Function Expansions
+Abstract
+Bayesian learning often necessitates online inference, adaptive models, and the combination of multiple distinct
+models"
+P010.pdf,1,KDD,General relevance to the topic,"Enhanced Reinforcement Learning for Recommender Systems:
+Maximizing Sample Efficiency and Minimizing Variance
+Abstract
+Optimizing long-term user satisfaction in recommender systems, such as news feeds, is crucial during continuous
+user-system interactions"
+P011.pdf,1,CVPR,General relevance to the topic,"Controlling False Discovery Rates in Detecting Heterogeneous
+Treatment Effects for Online Experiments
+Abstract
+Online controlled experiments, commonly referred to as A/B testing, are widely used in many Internet companies
+for data-driven decision-making regarding feature modifications and product releases"
+P012.pdf,1,KDD,General relevance to the topic,"Harmonizing Scaling Laws: Bridging the Gap
+Between Kaplan and Chinchilla
+Abstract
+Studies by Kaplan et al"
+P013.pdf,1,NeurIPS,General relevance to the topic,"Learning Explanations from Language Data
+Abstract
+PatternAttribution is a recent method, introduced in the vision domain, that explains
+classifications of deep neural networks"
+P014.pdf,1,CVPR,General relevance to the topic,"Advancements in Audio-Visual Active Speaker
+Detection: A Novel Approach for the ActivityNet
+Challenge
+Abstract
+This document outlines our contribution to the ActivityNet Challenge, focusing on
+active speaker detection"
+P015.pdf,1,CVPR,General relevance to the topic,"Overview of Challenges in Trajectory Forecasting and
+3D Perception for Autonomous Driving
+Abstract
+This document provides a summary of the challenges faced in the domain of
+Autonomous Driving"
+P016.pdf,0,NA,NA,NA
+P017.pdf,1,CVPR,General relevance to the topic,"Detecting and Summarizing Video Highlights with
+Lag-Calibration
+Abstract
+The increasing popularity of video sharing has led to a growing need for automatic
+video analysis, including highlight detection"
+P018.pdf,1,CVPR,General relevance to the topic,"Enhancing Deep Reinforcement Learning with
+Plasticity Mechanisms
+Abstract
+The objective of this research is to address the phenomenon of plasticity loss in
+deep reinforcement learning (RL) agents, where neural networks lose their ability
+to learn effectively over time"
+P019.pdf,1,KDD,General relevance to the topic,"Acquiring the Ability to Recommend Interventions for Tuberculosis
+Treatment Through the Utilization of Digital Adherence Information
+Abstract
+Digital Adherence Technologies (DATs) are becoming progressively favored as a means of confirming patients’
+adherence to various medications"
+P020.pdf,0,NA,NA,NA
+P021.pdf,1,CVPR,General relevance to the topic,"A Vehicle Motion Prediction Approach for the 2021
+Shifts Challenge
+Abstract
+This paper details the solution developed for the 2021 Shifts Challenge, which
+focused on robustness and uncertainty in real-world distributional shifts"
+P022.pdf,0,NA,NA,NA
+P023.pdf,1,TMLR,Contains key terms for CVPR: image,"A Reverse Hierarchy Model for Predicting Eye
+Fixations
+Abstract
+A number of psychological and physiological evidences suggest that early visual
+attention works in a coarse-to- fine way, which lays a basis for the reverse hierarchy
+theory (RHT)"
+P024.pdf,1,NeurIPS,General relevance to the topic,"Turning the Tables: Exploring Subtle Vulnerabilities in
+Machine Learning Model
+Abstract
+This paper investigates the feasibility and effectiveness of label-only backdoor
+attacks in machine learning"
+P025.pdf,1,EMNLP,Contains key terms for CVPR: image,"Scene Comprehension Through Image Analysis with
+an Extensive Array of Categories and Context at the
+Scene Level
+Abstract
+This research introduces a unique approach to scene parsing that is nonparametric,
+which enhances the precision and expands the scope of foreground categories within
+images of scenes"
+P026.pdf,0,NA,NA,NA
+P027.pdf,1,EMNLP,General relevance to the topic,"emoji2vec: Learning Emoji Representations from their
+Description
+Abstract
+Many current natural language processing applications for social media rely on
+representation learning and utilize pre-trained word embeddings"
+P028.pdf,1,EMNLP,General relevance to the topic,"Do You See What I Mean? Visual Resolution of
+Linguistic Ambiguities
+Abstract
+Understanding language goes hand in hand with the ability to integrate com-
+plex contextual information obtained via perception"
+P029.pdf,1,CVPR,General relevance to the topic,"OpenOmni: An Open-Source Multimodal Systems
+Abstract
+Multimodal conversational systems are increasingly sought after for their ability
+to facilitate natural and human-like interactions"
+P030.pdf,1,NeurIPS,General relevance to the topic,"BladeDISC++: Enhancing Memory Usage Through
+Symbolic Shape Analysis
+Abstract
+The increasing prevalence of dynamic characteristics in modern deep learning tasks
+has led to the growing importance of dynamic shape compilers"
+P031.pdf,0,NA,NA,NA
+P032.pdf,0,NA,NA,NA
+P033.pdf,1,NeurIPS,General relevance to the topic,"AMR Parsing using Stack-LSTMs
+Abstract
+We present a transition-based AMR parser that directly generates AMR parses from
+plain text"
+P034.pdf,1,KDD,General relevance to the topic,"Enhanced Normalization in Vision Transformers: The Dual PatchNorm
+Approach
+Abstract
+This study introduces Dual PatchNorm, a modification for Vision Transformers that incorporates two Layer
+Normalization layers (LayerNorms) positioned before and after the patch embedding layer"
+P035.pdf,0,NA,NA,NA
+P036.pdf,0,NA,NA,NA
+P037.pdf,1,CVPR,General relevance to the topic,"A Chinese Span-Extraction Dataset for Machine
+Reading Comprehension
+Abstract
+This paper introduces a novel dataset for Chinese machine reading comprehension,
+focusing on span extraction"
+P038.pdf,0,NA,NA,NA
+P039.pdf,0,NA,NA,NA
+P040.pdf,1,NeurIPS,General relevance to the topic,"A 3D Convolutional Neural Network Approach for
+Sustainable Architectural Design through
+Computational Fluid Dynamics Simulation and
+Reverse Design Workflow
+Abstract
+This paper introduces a versatile and flexible approximation model"
+P041.pdf,0,NA,NA,NA
+P042.pdf,1,NeurIPS,Contains key terms for CVPR: image,"DeepSim: A Semantic Approach to Image Registration
+Evaluation
+Abstract
+This paper introduces a novel semantic similarity metric designed for image regis-
+tration"
+P043.pdf,0,NA,NA,NA
+P044.pdf,1,CVPR,General relevance to the topic,"A Comprehensive Multimodal Dataset for
+Climate-Conscious Prediction of Crop Yields
+Abstract
+Accurate forecasting of crop yields is crucial for maintaining food security and promoting sustainable agricultural
+methods"
+P045.pdf,1,TMLR,General relevance to the topic,"AM-RADIO: Agglomerative Vision Foundation Model
+Reduce All Domains Into One
+Abstract
+A handful of visual foundation models (VFMs) have recently emerged as the
+backbones for numerous downstream tasks"
+P046.pdf,1,NeurIPS,General relevance to the topic,"Symbiotic Adversarial Robustness for Graph Neural
+Networks: Combining Poisoning and Evasion
+Abstract
+Deep learning models are known to be vulnerable to small input perturbations,
+which are known as adversarial examples"
+P047.pdf,0,NA,NA,NA
+P048.pdf,0,NA,NA,NA
+P049.pdf,1,TMLR,General relevance to the topic,"Improving Model Generalization Using a Single Data
+Sample for Semantic Adaptation
+Abstract
+The limited capacity of deep networks to generalize beyond their training dis-
+tribution presents a significant challenge in semantic segmentation"
+P050.pdf,1,EMNLP,General relevance to the topic,"Interpreting Recurrent and Attention-Based Neural
+Models: a Case Study on Natural Language Inference
+Abstract
+Deep learning models have achieved remarkable success in natural language in-
+ference (NLI) tasks"
+P051.pdf,1,NeurIPS,General relevance to the topic,"Real-Time Adaptation of Lexical Embeddings for
+Enhanced Part-of-Speech Tagging
+Abstract
+This research introduces a method for real-time unsupervised domain adaptation
+(DA) that can be applied incrementally as new information arrives"
+P052.pdf,1,EMNLP,General relevance to the topic,"Specialized Neural Network for Extracting Financial Trading Signals:
+The Alpha Discovery Neural Network
+Abstract
+Genetic programming (GP) is currently the leading method for automated feature generation in financial applica-
+tions"
+P053.pdf,0,NA,NA,NA
+P054.pdf,1,CVPR,General relevance to the topic,"3D Food Modeling from Images: Advancements in
+Physically-Aware Reconstruction
+Abstract
+The growing focus on computer vision for applications in nutritional monitoring
+and dietary tracking has spurred the creation of sophisticated 3D reconstruction
+methods for various food items"
+P055.pdf,1,CVPR,General relevance to the topic,"Examining the Initial Experiences of Researchers
+When Articulating Broader Impact
+Abstract
+By mandating a broader impact statement with every submission for this year’s
+conference, the program chairs at the conference highlighted ethics as a crucial
+component of AI research"
+P056.pdf,0,NA,NA,NA
+P057.pdf,0,NA,NA,NA
+P058.pdf,1,TMLR,General relevance to the topic,"Enhanced Vocabulary Handling in Recurrent Neural Networks
+Through Positional Encoding
+Abstract
+This research presents a counterintuitive discovery: positional encoding, a high-dimensional representation of
+temporal indices, improves the learning capabilities of recurrent neural networks (RNNs)"
+P059.pdf,1,KDD,General relevance to the topic,"Large Vocabulary Handling in Recurrent Neural
+Networks Enhanced by Positional Encoding
+Abstract
+This research presents a counterintuitive discovery: positional encoding, a high-
+dimensional representation of time indices on input data, improves the learning
+capabilities of recurrent neural networks (RNNs)"
+P060.pdf,1,NeurIPS,General relevance to the topic,"Background Modeling Using Adaptive Pixelwise
+Kernel Variances in a Hybrid Feature Space
+Abstract
+Recent work on background subtraction has shown developments on two major
+fronts"
+P061.pdf,1,KDD,General relevance to the topic,"Enhancing Visual Representation Learning Through
+Original Image Utilization in Contrastive Learning
+Abstract
+Contrastive instance discrimination techniques exhibit superior performance in
+downstream tasks, including image classification and object detection, compared to
+supervised learning"
+P062.pdf,1,NeurIPS,General relevance to the topic,"Estimating Causal Effects Using a Cross-Moment
+Method
+Abstract
+This paper explores the adaptation of large pretrained models to new tasks while
+preserving their inherent equivariance properties"
+P063.pdf,1,NeurIPS,General relevance to the topic,"Representation Transferability in Neural Networks
+Across Datasets and Tasks
+Abstract
+Deep neural networks, which are built from multiple layers with hierarchical
+distributed representations, tend to learn low-level features in their initial layers
+and shift to high-level features in subsequent layers"
+P064.pdf,1,NeurIPS,General relevance to the topic,"Flow-Based Feature Fusion for Collaborative 3D
+Object Detection
+Abstract
+The goal of this paper is to empower open-source large language models (LLMs)
+such as LLaMA, Vicuna, and OPT to effectively utilize multi-modal tools for
+tasks involving visual comprehension and image generation"
+P065.pdf,1,NeurIPS,"Contains key terms for CVPR: image, Contains key terms for NeurIPS: ai","Assessing the Stability of Stable Diffusion in a Recursive Inpainting
+Scenario
+Abstract
+Generative Artificial Intelligence models for image generation have demonstrated remarkable capabilities in tasks
+like text-to-image synthesis and image completion through inpainting"
+P066.pdf,1,EMNLP,General relevance to the topic,"Fast Vocabulary Transfer for Language Model
+Compression
+Abstract
+Real-world business applications require a trade-off between language model
+performance and size"
+P067.pdf,1,CVPR,General relevance to the topic,"API with a Rich Linguistic Resource
+Abstract
+This paper introduces a novel Python API, incorporated within the NLTK library,
+that facilitates access to the FrameNet 1"
+P068.pdf,1,CVPR,General relevance to the topic,"A Unique Approach to Chain-of-Thought Prompting
+Abstract
+To address the challenges of temporal asynchrony and limited communication
+bandwidth in vehicle-infrastructure cooperative 3D (VIC3D) object detection, we
+introduce Feature Flow Net (FFNet), a novel framework that transmits compressed
+feature flow rather than raw data or feature maps"
+P069.pdf,0,NA,NA,NA
+P070.pdf,0,NA,NA,NA
+P071.pdf,1,EMNLP,"Contains key terms for EMNLP: bert, language","The Significance of Fillers in Textual Representations
+of Speech Transcripts
+Abstract
+This paper investigates the role of fillers within text-based representations of speech
+transcripts"
+P072.pdf,1,NeurIPS,General relevance to the topic,"Evaluating the Resilience of White-Box Defenses
+Against Adversarial Examples
+Abstract
+It is well-established that neural networks exhibit susceptibility to adversarial ex-
+amples"
+P073.pdf,0,NA,NA,NA
+P074.pdf,1,CVPR,"Contains key terms for CVPR: vision, Contains key terms for NeurIPS: vision","Agriculture-Vision Challenge 2022 – The Runner-Up
+Solution for Agricultural Pattern Recognition via
+Transformer-based Models
+Abstract
+This paper explores the adaptation The Agriculture-Vision Challenge is one of
+the most famous and competitive challenges for global researchers to break the
+boundary between computer vision and agriculture sectors, aiming at agricultural
+pattern recognition from aerial images"
+P075.pdf,1,KDD,General relevance to the topic,"Equivariant Adaptation of Large Pretrained Models
+Abstract
+This paper explores the adaptation of video alignment to improve multi-step infer-
+ence"
+P076.pdf,0,NA,NA,NA
+P077.pdf,0,NA,NA,NA
+P078.pdf,0,NA,NA,NA
+P079.pdf,1,NeurIPS,General relevance to the topic,"OmniPrint: A Configurable Generator for Printed
+Characters
+Abstract
+We introduce OmniPrint, a synthetic data generator for isolated printed characters
+designed to support machine learning research"
+P080.pdf,0,NA,NA,NA
+P081.pdf,0,NA,NA,NA
+P082.pdf,1,TMLR,General relevance to the topic,"A PyTorch-Based Approach for Variational Learning
+with Disentanglement
+Abstract
+This paper presents the Disentanglement-PyTorch library, which has been devel-
+oped to assist in the research, application, and assessment of novel variational
+algorithms"
+P083.pdf,1,CVPR,General relevance to the topic,"Disparate Citation Patterns Between Chinese and
+American Research Communities at a Unified Venue
+Abstract
+At NeurIPS, there is a tendency for American and Chinese institutions to cite papers
+from within their own regions substantially more often than they cite papers from
+the other region"
+P084.pdf,1,EMNLP,General relevance to the topic,"An Empirical Study of the ""Hard-Won Lesson"": Two
+Decades of Research Insights
+Abstract
+This research investigates the congruence between research in major computer
+vision conferences and the tenets of the ""hard-won lesson"" articulated by Rich
+Sutton"
+P085.pdf,1,EMNLP,General relevance to the topic,"Privacy Evaluation in Tabular Synthetic Data:
+Current Approaches and Future Directions
+Abstract
+This paper examines the present methods for quantifying the level of privacy
+protection offered by tabular synthetic data (SD)"
+P086.pdf,0,NA,NA,NA
+P087.pdf,1,NeurIPS,General relevance to the topic,"Subspace Constraint Method of Feature Tracking
+Abstract
+Feature tracking in video is a crucial task in computer vision"
+P088.pdf,1,NeurIPS,General relevance to the topic,"Analyzing Groups of Neurons in Neural Networks: Comparing
+Information from Input and Output Perspectives
+Abstract
+The concept of a ""modular"" structure in artificial neural networks has been suggested as beneficial for learning,
+the ability to combine elements, and applying knowledge to new situations"
+P089.pdf,1,TMLR,General relevance to the topic,"Precise Requirements for the Validity of the Neural Tangent Kernel
+Approximation
+Abstract
+This research investigates the conditions under which the neural tangent kernel (NTK) approximation remains
+valid when employing the square loss function for model training"
+P090.pdf,1,NeurIPS,General relevance to the topic,"Equivariant Fine-Tuning of Large Pretrained Models
+Abstract
+This paper explores the adaptation of large pretrained models to new tasks while
+preserving their inherent equivariance properties"
+P091.pdf,1,EMNLP,General relevance to the topic,"An Investigation into Named Entity Recognition for
+Call Center Transcripts to Ensure Privacy Law
+Compliance
+Abstract
+This study explores the application of Named Entity Recognition (NER) on a
+novel form of user-generated text, specifically call center conversations"
+P092.pdf,1,NeurIPS,General relevance to the topic,"Enhanced Image Compression Through Advanced
+Residual Network Architectures
+Abstract
+This manuscript provides an in-depth explanation of the methodology developed
+for a recent image compression challenge"
+P093.pdf,1,NeurIPS,General relevance to the topic,"Premature Termination Strategy for Deep Image Prior
+Abstract
+Deep Image Prior (DIP) and its variations have demonstrated significant promise in addressing inverse problems in
+computational imaging, without the need for separate training data"
+P094.pdf,0,NA,NA,NA
+P095.pdf,1,EMNLP,General relevance to the topic,"JueWu-MC: Achieving Sample-Efficient Minecraft
+Gameplay through Hierarchical Reinforcement
+Learning
+Abstract
+Learning rational behaviors in open-world games such as Minecraft continues to
+pose a challenge to Reinforcement Learning (RL) research, due to the combined
+difficulties of partial observability, high-dimensional visual perception, and delayed
+rewards"
+P096.pdf,0,NA,NA,NA
+P097.pdf,0,NA,NA,NA
+P098.pdf,0,NA,NA,NA
+P099.pdf,1,EMNLP,Contains key terms for EMNLP: language,"Enhancing LSTM-based Video Narration Through
+Text-Derived Linguistic Insights
+Abstract
+This study delves into how linguistic understanding, extracted from extensive text
+datasets, can be leveraged to enhance the generation of natural language video
+descriptions"
+P100.pdf,0,NA,NA,NA
+P101.pdf,1,NeurIPS,General relevance to the topic,"A Convolutional LSTM Network Approach for
+Identifying Diseases in Medical Volumetric Images
+with Limited Annotations
+Abstract
+This paper presents a methodology for identifying disease characteristics from
+medical imaging data using 3D volumes, which have weak annotations"
+P102.pdf,1,CVPR,General relevance to the topic,"A Large-Scale Car Dataset for Fine-Grained
+Categorization and Verification
+Abstract
+This paper aims to highlight vision related tasks centered around “car”, which has
+been largely neglected by vision community in comparison to other objects"
+P103.pdf,1,CVPR,General relevance to the topic,"Equivariant Adaptation of Large Pretrained Models:
+A Study on the NLC2CMD Competition
+Abstract
+This paper presents an investigation into the challenges of adapting pretrained
+models, specifically in the context of the NLC2CMD competition"
+P104.pdf,1,EMNLP,General relevance to the topic,"Enhancing Self-Consistency and Performance of
+Pre-Trained Language Models through Natural
+Language Inference
+Abstract
+While large pre-trained language models are powerful, their predictions often
+lack logical consistency across test inputs"
+P105.pdf,0,NA,NA,NA
+P106.pdf,0,NA,NA,NA
+P107.pdf,0,NA,NA,NA
+P108.pdf,1,EMNLP,Contains key terms for EMNLP: language,"Progress Towards Eliciting Organized Phoneme
+Structures
+Abstract
+Phonological typology, a vital area within linguistic studies, examines the patterns
+and functions of sounds across the world’s languages"
+P109.pdf,1,CVPR,General relevance to the topic,"Multimodal Deep Ensemble for Hateful Meme
+Identification
+Abstract
+This paper delves into the utilization of machine learning techniques for identify-
+ing hate speech, while addressing the persisting technical challenges to enhance
+their performance to match human-level accuracy"
+P110.pdf,1,EMNLP,General relevance to the topic,"LIDA: Lightweight Interactive Dialogue Annotator
+Abstract
+Dialogue systems are highly dependent on the quality of the data used to train them"
+P111.pdf,1,TMLR,"Contains key terms for NeurIPS: optimization, Contains key terms for TMLR: optimization","Leveraging Deep Learning for Enhanced Bayesian Optimization in
+Scientific Domains with Complex Structures
+Abstract
+Bayesian optimization (BO) is a widely used technique for the global optimization of costly black-box functions"
+P112.pdf,1,NeurIPS,General relevance to the topic,"Learning Genomic Sequence Representations using
+Graph Neural Networks over De Bruijn Graphs
+Abstract
+The rapid increase of genomic sequence data requires new methods for creating ro-
+bust sequence representations"
+P113.pdf,1,NeurIPS,General relevance to the topic,"Multi-Agent Systems Control Using Graph Neural
+Networks with Model-Based Reinforcement Learning
+Abstract
+Multi-agent systems (MAS) play a crucial role in the advancement of machine
+intelligence and its applications"
+P114.pdf,0,NA,NA,NA
+P115.pdf,1,TMLR,Contains key terms for EMNLP: language,"An Examination of Expansive Multimodal Models:
+Insights from an Educational Overview
+Abstract
+This document provides a summary of a presentation centered on extensive multi-
+modal models, specifically their development to a level comparable to and poten-
+tially exceeding that of multimodal GPT-4"
+P116.pdf,1,NeurIPS,Contains key terms for TMLR: algorithms,"Improving Random Forests through Random Splitting
+Abstract
+To enhance the accuracy and scalability of decision tree algorithms, we introduce a
+generalization called Top-k"
+P117.pdf,1,CVPR,Contains key terms for CVPR: image,"Rapid Image Annotation Through Zero-Shot Learning
+Abstract
+Recent experiments on word analogies demonstrate that contemporary word vectors
+effectively encapsulate subtle linguistic patterns through linear vector displace-
+ments"
+P118.pdf,1,NeurIPS,General relevance to the topic,"Distant Supervision from Disparate Sources for
+Low-Resource Part-of-Speech Tagging
+Abstract
+We introduce DSDS: a cross-lingual neural part-of-speech tagger that learns from
+disparate sources of distant supervision, and realistically scales to hundreds of low-
+resource languages"
+P119.pdf,0,NA,NA,NA
+P120.pdf,1,NeurIPS,General relevance to the topic,"A Toolkit for Scrutinizing Neural Network Activations
+Abstract
+This document introduces diagNNose, an open-source toolkit designed for the
+examination of activations within deep neural networks"
+P121.pdf,1,NeurIPS,General relevance to the topic,"GPT4Tools: Reimagining LLMs as Helpers
+Abstract
+The objective of this research is to address the phenomenon of plasticity loss in
+deep reinforcement learning (RL) agents, where neural networks lose their ability
+to learn effectively over time"
+P122.pdf,1,EMNLP,General relevance to the topic,"Short-Term Forecasting of Precipitation Using Satellite Data
+Abstract
+Short-range forecasting of rain or snow, known as precipitation nowcasting, is typically displayed on geographical
+maps by weather services for up to a 2-hour timeframe"
+P123.pdf,1,EMNLP,General relevance to the topic,"Acquiring Cross-Domain Representations for
+Contextual Detection Using Extensive Emoji Data
+Abstract
+This research delves into the application of a vast collection of emoji occurrences
+to acquire versatile representations applicable to diverse domains for the purpose
+of identifying sentiment, emotion, and sarcasm"
+P124.pdf,0,NA,NA,NA
+P125.pdf,1,EMNLP,General relevance to the topic,"DISCOSENSE: Commonsense Reasoning with
+Discourse Connectives
+Abstract
+We present DISCOSENSE, a benchmark for commonsense reasoning via un-
+derstanding a wide variety of discourse connectives"
+P126.pdf,1,TMLR,General relevance to the topic,"Designing Data Markets Using Deep Learning
+Technique
+Abstract
+The objective of this research is to develop an innovative algorithm for accurately
+estimating the causal effect of treatment on outcomes in linear Structural Causal
+Models (SCMs) when latent confounders are present"
+P127.pdf,1,EMNLP,General relevance to the topic,"Examining Machine Learning’s Impact on Personal
+Privacy
+Abstract
+This paper delves into the growing concerns surrounding the use of machine
+learning and its impact on personal privacy"
+P128.pdf,1,EMNLP,General relevance to the topic,"End-to-End Neural Discourse Deixis Resolution in
+Dialogue
+Abstract
+We adapt a span-based entity coreference model to the task of end-to-end discourse
+deixis resolution in dialogue, specifically by proposing extensions to their model
+that exploit task-specific characteristics"
+P129.pdf,0,NA,NA,NA
+P130.pdf,0,NA,NA,NA
+P131.pdf,1,NeurIPS,General relevance to the topic,"Enhancing Disentanglement through Learned
+Aggregation of Convolutional Feature Maps: A Study
+on the 2019 Disentanglement Challenge
+Abstract
+This paper details our submission for stage 2 of the 2019 disentanglement challenge"
+P132.pdf,1,EMNLP,General relevance to the topic,"Analyzing Fermentation Patterns with Multi-Modal
+Transformers: A Novel Framework for Improved
+Bread-Baking Outcomes
+Abstract
+This study presents a groundbreaking approach to achieving the elusive ’perfect
+crumb’ in sourdough bread by harnessing the power of multi-modal transformers
+to analyze the complex microbiomes present in sourdough starters"
+P133.pdf,1,NeurIPS,General relevance to the topic,"Discontinuous Constituent Parsing as Sequence
+Labeling
+Abstract
+This paper reduces discontinuous parsing to sequence labeling"
+P134.pdf,0,NA,NA,NA
+P135.pdf,1,NeurIPS,General relevance to the topic,"A Decentralized Local Stochastic Extragradient
+Approach for Variational Inequalities
+Abstract
+This study examines distributed stochastic variational inequalities (VIs) within
+unbounded domains, where the problem data is heterogeneous, meaning it is non-
+identically distributed and spread across numerous devices"
